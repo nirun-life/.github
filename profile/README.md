@@ -1,6 +1,6 @@
 # Nirun
 
-Nirun supports digital workflows for community and healthcare operations. We build practical digital infrastructure that helps community health programs, care teams, public health implementers, and healthcare service organizations coordinate work and deliver care more effectively.
+Nirun supports digital workflows for community and healthcare operations. We build practical digital infrastructure that helps community health programs, nursing home, care teams, public health implementers, and healthcare service organizations coordinate work and deliver care more effectively.
 
 ## What We Work On
 
