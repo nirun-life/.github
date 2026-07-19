@@ -6,7 +6,7 @@
 
 <!-- why / link issue or requirement -->
 
-Closes #
+<!-- Closes #123 (delete this line if there's no issue to close) -->
 
 ## Scope
 
